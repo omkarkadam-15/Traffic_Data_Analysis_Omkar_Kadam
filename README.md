@@ -1,5 +1,7 @@
 # Traffic_Data_Analysis_Omkar_Kadam (PySpark)
+
 This project performs a complete ETL (Extract–Transform–Load) workflow and Exploratory Data Analysis (EDA) on California statewide traffic collision data. Using PySpark, the analysis focuses on collision severity, weather and lighting conditions, victim demographics, geographic patterns, and time-based trends to support data-driven decisions for traffic safety and urban planning.
+
 ## Objectives
 * Clean, transform, and standardize collision, parties, and victims data.
 * Handle missing values, inconsistent types, duplicates, and outliers.
